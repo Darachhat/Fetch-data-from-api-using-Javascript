@@ -1,3 +1,5 @@
 - Fetch គឺជា​ Function ប្រើសម្រាប់បង្កើត HTTP requests ដើម្បីទាញយក  resources ដូចជា JSON style data, images, files
 -  HTTP គឺជា​ ​Hypertext Transfer Protocol ប្រើដើម្បីបញ្ចូន Data រវាង Web Client និង​ Web server
 - Fetch ​សម្រួលដល់ការ​ Asynchronous data fetching ក្នុង​ Javascript និង​ ប្រើសម្រាប់ Interacting ​ជាមួយ API ដើម្បី ទាញយកនិង​ បញ្ចូន data Asynchronously នៅលើ​ Web
+- Asynchronous​ ជា Function ដែលដំណើរការស្របជាមួយ​ Function ផ្សេងទៀត
+- Async/await គឺជា Features ដែលមាននៅក្នុង Node.js ដែលសម្រួលក្នុងការគ្រប់គ្រងកិច្ចការដែលត្រូវការពេលវេលា ដូចជាការពី Response ពី API
